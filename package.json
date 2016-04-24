@@ -1,0 +1,31 @@
+{
+  "name": "express-getting-started",
+  "version": "1.0.0",
+  "description": "Getting Started with Express and Handlebars",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js",
+    "dev": "nodemon index.js"
+  },
+  "keywords": [
+    "node.js",
+    "express",
+    "handlebars"
+  ],
+  "author": "Seth Bergman <seth.atxwebs@gmail.com> (http://sethbergman.com/",
+  "license": "ISC",
+  "dependencies": {
+    "JSONStream": "^1.0.4",
+    "body-parser": "^1.15.0",
+    "consolidate": "^0.14.0",
+    "express": "^4.13.4",
+    "handlebars": "^4.0.5",
+    "jade": "^1.11.0",
+    "lodash": "^3.10.0",
+    "mongodb": "^2.1.7",
+    "mongoose": "^4.4.3"
+  },
+  "devDependencies": {
+    "nodemon": "^1.8.1"
+  }
+}

@@ -1,0 +1,72 @@
+[
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "miriam",
+      "last": "wallace"
+    },
+    "email": "miriam.wallace36@example.com",
+    "username": "blackpanda974"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "johnni",
+      "last": "franklin"
+    },
+    "email": "johnni.franklin85@example.com",
+    "username": "biglion303"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "mrs",
+      "first": "jackie",
+      "last": "medina"
+    },
+    "email": "jackie.medina91@example.com",
+    "username": "bigladybug498"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "felix",
+      "last": "miles"
+    },
+    "email": "felix.miles29@example.com",
+    "username": "blackdog881"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "toni",
+      "last": "obrien"
+    },
+    "email": "toni.obrien19@example.com",
+    "username": "bluebear73"
+  },
+  {
+    "gender": "female",
+    "name": {
+      "title": "miss",
+      "first": "kelly",
+      "last": "shaw"
+    },
+    "email": "kelly.shaw12@example.com",
+    "username": "blackgorilla589"
+  },
+  {
+    "gender": "male",
+    "name": {
+      "title": "mr",
+      "first": "darryl",
+      "last": "hopkins"
+    },
+    "email": "darryl.hopkins33@example.com",
+    "username": "bigbear866"
+  }
+]
